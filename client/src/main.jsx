@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       domain="dev-xqfcxon866kd1vod.us.auth0.com"
       clientId="vgMvyH0ab7HcF8V8TsHWXCwVFJpfZsSt"
       authorizationParams={{
-        redirect_uri: "http://localhost:5173",
+        redirect_uri: "https://propvest.vercel.app",
       }}
       audience="http://localhost:8000"
       scope="openid profile email "
